@@ -11,6 +11,5 @@ import UIKit
 protocol ClientsListScreenRouterInput: class {
 
     func present(fromController controller: UIViewController)
-    func transitionController() -> UIViewControllerAnimatedTransitioning
 
 }

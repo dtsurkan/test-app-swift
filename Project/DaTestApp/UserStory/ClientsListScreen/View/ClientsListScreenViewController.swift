@@ -12,8 +12,6 @@ class ClientsListScreenViewController: UIViewController, ClientsListScreenViewIn
     let chatCellIdentifier = "ChatCellIdentifier"
 
     weak var output: ClientsListScreenViewOutput!
-    weak var router: ClientsListScreenRouterInput!
-
     @IBOutlet weak var table: UITableView!
 
     var data: [ChatDomainModel]?
@@ -21,8 +19,6 @@ class ClientsListScreenViewController: UIViewController, ClientsListScreenViewIn
     //MARK: - Life cycle
     override func viewDidLoad() {
         super.viewDidLoad()
-
-        self.transitioningDelegate = self
         table.delegate = self
         table.dataSource = self
         table.contentInset = UIEdgeInsetsMake(64,0,0,0)
@@ -93,15 +89,5 @@ extension ClientsListScreenViewController: UITableViewDelegate {
         return 0
     }
 
-}
-
-
-//MARK: - UIViewControllerTransitioningDelegate
-
-extension ClientsListScreenViewController: UIViewControllerTransitioningDelegate {
-
-    func animationControllerForPresentedController(presented: UIViewController, presentingController presenting: UIViewController, sourceController source: UIViewController) -> UIViewControllerAnimatedTransitioning? {
-        return router.transitionController()
-    }
 }
 

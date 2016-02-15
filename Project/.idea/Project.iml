@@ -7,29 +7,30 @@
       <sourceFolder url="file://$MODULE_DIR$/DaTestAppUITests/Info.plist" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Info.plist" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DaTestAppTests/DaTestAppTests.swift" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DaTestAppTests/LoadingScreen/Presenter/LoadingScreenPresenterTests.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DaTestAppTests/LoadingScreen/Assembly/LoadingScreenAssemblyTests.swift" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DaTestAppTests/LoadingScreen/Router/LoadingScreenRouterTests.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DaTestAppTests/LoadingScreen/Presenter/LoadingScreenPresenterTests.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DaTestAppTests/LoadingScreen/View/LoadingScreenViewTests.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DaTestAppTests/LoadingScreen/Router/LoadingScreenRouterTests.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DaTestAppTests/LoadingScreen/Interactor/LoadingScreenInteractorTests.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DaTestAppTests/Info.plist" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DaTestAppTests/ClientsListScreen/Presenter/ClientsListScreenPresenterTests.swift" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DaTestAppTests/ClientsListScreen/Assembly/ClientsListScreenAssemblyTests.swift" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DaTestAppTests/ClientsListScreen/Router/ClientsListScreenRouterTests.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DaTestAppTests/ClientsListScreen/View/ClientsListScreenViewTests.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DaTestAppTests/ClientsListScreen/Presenter/ClientsListScreenPresenterTests.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DaTestAppTests/ClientsListScreen/Router/ClientsListScreenRouterTests.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DaTestAppTests/ClientsListScreen/Interactor/ClientsListScreenInteractorTests.swift" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/LoadingScreen/Assembly/LoadingScreenAssembly.swift" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/LoadingScreen/Presenter/LoadingScreenModuleOutput.swift" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/LoadingScreen/Presenter/LoadingScreenPresenter.swift" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/LoadingScreen/Presenter/LoadingScreenModuleInput.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DaTestAppTests/ClientsListScreen/Assembly/ClientsListScreenAssemblyTests.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/LoadingScreen/View/LoadingScreenViewInput.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/LoadingScreen/View/LoadingScreenViewOutput.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/LoadingScreen/View/LoadingScreenViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/LoadingScreen/Presenter/LoadingScreenModuleOutput.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/LoadingScreen/Presenter/LoadingScreenPresenter.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/LoadingScreen/Presenter/LoadingScreenModuleInput.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/LoadingScreen/Router/LoadingScreenRouterInput.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/LoadingScreen/Router/LoadingScreenRouter.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/LoadingScreen/Interactor/LoadingScreenInteractorOutput.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/LoadingScreen/Interactor/LoadingScreenInteractorInput.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/LoadingScreen/Interactor/LoadingScreenInteractor.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/LoadingScreen/Assembly/LoadingScreenAssembly.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/ClientsListScreen/Assembly/ClientsListScreenAssembly.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/ClientsListScreen/Presenter/ClientsListScreenPresenter.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/ClientsListScreen/Presenter/ClientsListScreenModuleInput.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/ClientsListScreen/View/ClientsListScreenViewController.swift" isTestSource="false" />
@@ -37,15 +38,14 @@
       <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/ClientsListScreen/View/Cell/ChatSummaryCellAdapter.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/ClientsListScreen/View/Cell/ChatSummaryCell.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/ClientsListScreen/View/ClientsListScreenViewInput.swift" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/ClientsListScreen/Router/Transition/ClientsListAnimatedTransitioning.swift" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/ClientsListScreen/Router/ClientsListScreenRouterInput.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/ClientsListScreen/Router/ClientsListScreenRouter.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/ClientsListScreen/Router/ClientsListScreenRouterInput.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/ClientsListScreen/Router/Transition/ClientsListAnimatedTransitioning.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/ClientsListScreen/Interactor/ClientsListScreenInteractorInput.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/ClientsListScreen/Interactor/ClientsListScreenInteractorOutput.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/ClientsListScreen/Interactor/ClientsListScreenInteractor.swift" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/ClientsListScreen/Assembly/ClientsListScreenAssembly.swift" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/StoryBoards/LaunchScreen.storyboard" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/StoryBoards/Base.lproj/Main.storyboard" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/StoryBoards/LaunchScreen.storyboard" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/StoryBoards/ru.lproj/Main.strings" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DaTestApp/UserStory/StoryBoards/en.lproj/Main.strings" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DaTestApp/Application/Layers/Domain/ChatDomainModel.swift" isTestSource="false" />
@@ -56,25 +56,25 @@
       <sourceFolder url="file://$MODULE_DIR$/DaTestApp/Application/BundleFiles/Assets.xcassets" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DaTestApp/Application/BundleFiles/data.plist" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DaTestApp/Application/Router/RootRouter.swift" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DaTestApp/Application/Services/Plist Server/PlistBasedServer.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DaTestApp/Application/Services/Interface/TestServerInterface.swift" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/MultipartFormData.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DaTestApp/Application/Services/Plist Server/PlistBasedServer.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/Timeline.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/Response.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/Error.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/Stream.swift" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/Validation.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/MultipartFormData.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/ServerTrustPolicy.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/ParameterEncoding.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/Result.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/Manager.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/Download.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/NetworkReachabilityManager.swift" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/Timeline.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/ResponseSerialization.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/Alamofire.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/Request.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/Notifications.swift" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/ResponseSerialization.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/Upload.swift" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/Alamofire.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/Validation.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Alamofire/Alamofire.modulemap" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Alamofire/Alamofire-umbrella.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Alamofire/Info.plist" isTestSource="false" />
@@ -82,12 +82,12 @@
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Alamofire/Alamofire.xcconfig" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Alamofire/Alamofire-dummy.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-DaTestApp/Pods-DaTestApp-acknowledgements.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-DaTestApp/Pods-DaTestApp.debug.xcconfig" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-DaTestApp/Pods-DaTestApp-resources.sh" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-DaTestApp/Pods-DaTestApp.modulemap" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-DaTestApp/Pods-DaTestApp-acknowledgements.markdown" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-DaTestApp/Pods-DaTestApp-frameworks.sh" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-DaTestApp/Pods-DaTestApp-dummy.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-DaTestApp/Pods-DaTestApp.debug.xcconfig" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-DaTestApp/Info.plist" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-DaTestApp/Pods-DaTestApp.release.xcconfig" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-DaTestApp/Pods-DaTestApp-umbrella.h" isTestSource="false" />

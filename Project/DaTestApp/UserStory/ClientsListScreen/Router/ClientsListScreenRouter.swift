@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ClientsListScreenRouter: ClientsListScreenRouterInput {
+class ClientsListScreenRouter: NSObject, ClientsListScreenRouterInput {
 
     var presenter: ClientsListScreenPresenter!
     weak var controller: UIViewController!
@@ -18,9 +18,13 @@ class ClientsListScreenRouter: ClientsListScreenRouterInput {
     func present(fromController controller: UIViewController) {
         controller.presentViewController(self.controller, animated: true) { () -> Void in }
     }
+}
 
-    func transitionController() -> UIViewControllerAnimatedTransitioning {
+//MARK: - UIViewControllerTransitioningDelegate
+
+extension ClientsListScreenRouter: UIViewControllerTransitioningDelegate {
+
+    func animationControllerForPresentedController(presented: UIViewController, presentingController presenting: UIViewController, sourceController source: UIViewController) -> UIViewControllerAnimatedTransitioning? {
         return transitioningController
     }
 }
-

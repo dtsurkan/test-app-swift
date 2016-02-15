@@ -21,7 +21,7 @@ class ClientsListScreenAssembly
         router.controller = vc
 
         vc.output = presenter
-        vc.router = router
+        vc.transitioningDelegate = router
         
         interactor.output = presenter
         interactor.serverAPI = PlistBasedServer()
