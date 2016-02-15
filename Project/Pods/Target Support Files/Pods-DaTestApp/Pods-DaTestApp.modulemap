@@ -1,0 +1,6 @@
+framework module Pods_DaTestApp {
+  umbrella header "Pods-DaTestApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

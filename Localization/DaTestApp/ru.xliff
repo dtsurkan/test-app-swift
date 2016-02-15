@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="DaTestApp/UserStory/StoryBoards/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+    </header>
+    <body>
+      <trans-unit id="6T4-9b-acB.text">
+        <source>Some Name</source>
+        <target>Some Name</target>
+        <note>Class = "UILabel"; text = "Some Name"; ObjectID = "6T4-9b-acB";</note>
+      </trans-unit>
+      <trans-unit id="DXL-SK-bW3.text">
+        <source>messages</source>
+        <target>messages</target>
+        <note>Class = "UILabel"; text = "сообщений"; ObjectID = "DXL-SK-bW3";</note>
+      </trans-unit>
+      <trans-unit id="Ev0-zK-vqS.text">
+        <source>message</source>
+        <target>message</target>
+        <note>Class = "UILabel"; text = "message"; ObjectID = "Ev0-zK-vqS";</note>
+      </trans-unit>
+      <trans-unit id="O8a-Vu-yfV.title">
+        <source>Chats</source>
+        <target>Chats</target>
+        <note>Class = "UINavigationItem"; title = "Диалоги"; ObjectID = "O8a-Vu-yfV";</note>
+      </trans-unit>
+      <trans-unit id="fx9-uw-Ocw.text">
+        <source>12 99 PM</source>
+        <target>12 99 PM</target>
+        <note>Class = "UILabel"; text = "12 99 PM"; ObjectID = "fx9-uw-Ocw";</note>
+      </trans-unit>
+      <trans-unit id="wc6-aP-2CW.text">
+        <source>+ 9</source>
+        <target>+ 9</target>
+        <note>Class = "UILabel"; text = "+ 9"; ObjectID = "wc6-aP-2CW";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="DaTestAppTests/Info.plist" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="DaTestAppUITests/Info.plist" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Info.plist" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
